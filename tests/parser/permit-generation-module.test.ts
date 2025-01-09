@@ -97,13 +97,13 @@ const resultOriginal: Result = {
   },
 };
 
-const { PermitGenerationModule } = await import("../../src/parser/permit-generation-module");
+const { PaymentModule } = await import("../../src/parser/payment-module");
 
 beforeAll(() => server.listen());
 afterEach(() => server.resetHandlers());
 afterAll(() => server.close());
 
-describe("permit-generation-module.ts", () => {
+describe("payment-module.ts", () => {
   describe("applyFees()", () => {
     beforeEach(() => {
       ctx.env.PERMIT_FEE_RATE = "10";
@@ -125,9 +125,9 @@ describe("permit-generation-module.ts", () => {
 
     it("Should not apply fees if PERMIT_FEE_RATE is empty", async () => {
       ctx.env.PERMIT_FEE_RATE = "";
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
-      await permitGenerationModule._applyFees(resultOriginal, WXDAI_ADDRESS);
+      await paymentModule._applyFees(resultOriginal, WXDAI_ADDRESS);
       const logCallArgs = spyConsoleLog.mock.calls.map((call) => call[0]);
       expect(logCallArgs[0]).toMatch(/.*PERMIT_FEE_RATE is not set, skipping permit fee generation/);
       spyConsoleLog.mockReset();
@@ -135,9 +135,9 @@ describe("permit-generation-module.ts", () => {
 
     it("Should not apply fees if PERMIT_FEE_RATE is 0", async () => {
       ctx.env.PERMIT_FEE_RATE = "0";
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
-      await permitGenerationModule._applyFees(resultOriginal, WXDAI_ADDRESS);
+      await paymentModule._applyFees(resultOriginal, WXDAI_ADDRESS);
       const logCallArgs = spyConsoleLog.mock.calls.map((call) => call[0]);
       expect(logCallArgs[0]).toMatch(/.*PERMIT_FEE_RATE is not set, skipping permit fee generation/);
       spyConsoleLog.mockReset();
@@ -146,18 +146,18 @@ describe("permit-generation-module.ts", () => {
     it("Should not apply fees if PERMIT_TREASURY_GITHUB_USERNAME is empty", async () => {
       process.env.PERMIT_TREASURY_GITHUB_USERNAME = "";
       ctx.env.PERMIT_TREASURY_GITHUB_USERNAME = "";
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
-      await permitGenerationModule._applyFees(resultOriginal, WXDAI_ADDRESS);
+      await paymentModule._applyFees(resultOriginal, WXDAI_ADDRESS);
       const logCallArgs = spyConsoleLog.mock.calls.map((call) => call[0]);
       expect(logCallArgs[0]).toMatch(/.*PERMIT_TREASURY_GITHUB_USERNAME is not set, skipping permit fee generation/);
       spyConsoleLog.mockReset();
     });
 
     it("Should not apply fees if ERC20 reward token is included in PERMIT_ERC20_TOKENS_NO_FEE_WHITELIST", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
-      await permitGenerationModule._applyFees(resultOriginal, DOLLAR_ADDRESS);
+      await paymentModule._applyFees(resultOriginal, DOLLAR_ADDRESS);
       const logCallArgs = spyConsoleLog.mock.calls.map((call) => call[0]);
       expect(logCallArgs[0]).toMatch(
         new RegExp(`.*Token address ${DOLLAR_ADDRESS} is whitelisted to be fee free, skipping permit fee generation`)
@@ -166,8 +166,8 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should apply fees", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
-      const resultAfterFees = await permitGenerationModule._applyFees(resultOriginal, WXDAI_ADDRESS);
+      const paymentModule = new PaymentModule(ctx);
+      const resultAfterFees = await paymentModule._applyFees(resultOriginal, WXDAI_ADDRESS);
 
       // check that 10% fee is subtracted from rewards
       expect(resultAfterFees["user1"].total).toEqual(90);
@@ -189,7 +189,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return false if private key could not be decrypted", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "warn");
 
       // format: "PRIVATE_KEY"
@@ -198,7 +198,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 1;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -212,7 +212,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return false if private key is used in unallowed organization", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID"
@@ -222,7 +222,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 99;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -236,7 +236,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return true if private key is used in allowed organization", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID"
       // encrypted value: "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80:1"
@@ -245,7 +245,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 1;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -256,7 +256,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return false if private key is used in un-allowed organization and allowed repository", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID:GITHUB_REPOSITORY_ID"
@@ -266,7 +266,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 99;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -282,7 +282,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return false if private key is used in allowed organization and unallowed repository", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "info");
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID:GITHUB_REPOSITORY_ID"
@@ -292,7 +292,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 1;
       const githubContextRepositoryId = 99;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -308,7 +308,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return true if private key is used in allowed organization and repository", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID:GITHUB_REPOSITORY_ID"
       // encrypted value: "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80:1:2"
@@ -317,7 +317,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 1;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
@@ -328,7 +328,7 @@ describe("permit-generation-module.ts", () => {
     });
 
     it("Should return false if private key format is invalid", async () => {
-      const permitGenerationModule = new PermitGenerationModule(ctx);
+      const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(console, "warn");
 
       // format: "PRIVATE_KEY:GITHUB_ORGANIZATION_ID:GITHUB_REPOSITORY_ID"
@@ -338,7 +338,7 @@ describe("permit-generation-module.ts", () => {
       const githubContextOrganizationId = 1;
       const githubContextRepositoryId = 2;
 
-      const isAllowed = await permitGenerationModule._isPrivateKeyAllowed(
+      const isAllowed = await paymentModule._isPrivateKeyAllowed(
         privateKeyEncrypted,
         githubContextOrganizationId,
         githubContextRepositoryId,
