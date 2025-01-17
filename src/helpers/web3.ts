@@ -1,15 +1,22 @@
 import { RPCHandler, HandlerConstructorConfig, NetworkId } from "@ubiquity-dao/rpc-handler";
-import { ethers } from "ethers";
+import { ethers, utils, Contract, Wallet, BigNumber } from "ethers";
+
+// Required ERC20 ABI functions
+export const ERC20_ABI = [
+  "function symbol() view returns (string)",
+  "function decimals() public view returns (uint8)",
+  "function balanceOf(address) view returns (uint256)",
+  "function transfer(address,uint256) public returns (bool)",
+];
 
 /**
- * Returns ERC20 token symbol
+ * Returns ERC20 token contract
  * @param networkId Network id
  * @param tokenAddress ERC20 token address
- * @returns ERC20 token symbol
+ * @returns ERC20 token contract
  */
-export async function getErc20TokenSymbol(networkId: number, tokenAddress: string) {
-  const abi = ["function symbol() view returns (string)"];
 
+export async function getErc20TokenContract(networkId: number, tokenAddress: string) {
   // get fastest RPC
   const config: HandlerConstructorConfig = {
     networkName: null,
@@ -30,7 +37,82 @@ export async function getErc20TokenSymbol(networkId: number, tokenAddress: strin
   const handler = new RPCHandler(config);
   const provider = await handler.getFastestRpcProvider();
 
-  // fetch token symbol
-  const contract = new ethers.Contract(tokenAddress, abi, provider);
-  return await contract.symbol();
+  return new Contract(tokenAddress, ERC20_ABI, provider);
+}
+
+/**
+ * Returns the evm wallet associated with the privateKey
+ * @param privateKey of the evm wallet
+ * @param provider ethers.Provider
+ * @returns the evm wallet
+ */
+export async function getEvmWallet(privateKey: string, provider: ethers.providers.Provider) {
+  try {
+    return new ethers.Wallet(privateKey, provider);
+  } catch (error) {
+    const errorMessage = `Failed to instantiate wallet: ${error}`;
+    throw new Error(errorMessage);
+  }
+}
+
+export class Erc20Wrapper {
+  constructor(private _contract: Contract) {}
+
+  /**
+   * Returns ERC20 token symbol
+   * @returns ERC20 token symbol
+   */
+  async getSymbol() {
+    return await this._contract.symbol();
+  }
+
+  /**
+   * Returns ERC20 token decimals
+   * @returns ERC20 token decimals
+   */
+  async getDecimals() {
+    return await this._contract.decimals();
+  }
+
+  /**
+   * Returns ERC20 token balance of the input address
+   * @param address input address
+   * @returns ERC20 token balance of the input address
+   */
+  async getBalance(address: string): Promise<BigNumber> {
+    return await this._contract.balanceOf(address);
+  }
+
+  /**
+   * Returns Fee estimation of erc20 transfer request
+   * @param address input address
+   * @param normalizedAmount Human readable amount of ERC20 token to be transferred
+   * @returns Fee estimation of erc20 transfer request
+   */
+  async estimateTransferGas(from: string, to: string, normalizedAmount: number) {
+    const tokenDecimals = await this.getDecimals();
+    const _amount = utils.parseUnits(normalizedAmount.toString(), tokenDecimals);
+    return await this._contract.estimateGas.transfer(to, _amount, { from });
+  }
+
+  /**
+   * Returns Transaction data of the ERC20 token transfer
+   * @param evmWallet Wallet to transfer ERC20 token from
+   * @param address Address to send ERC20 token
+   * @param normalizedAmount Human readable amount of ERC20 token to be transferred
+   * @returns Transaction data of the ERC20 token transfer
+   */
+  async sendTransferTransaction(evmWallet: Wallet, address: string, normalizedAmount: number) {
+    const tokenDecimals = await this.getDecimals();
+    const _amount = utils.parseUnits(normalizedAmount.toString(), tokenDecimals);
+
+    // Create the signed transaction
+    try {
+      const tx = await this._contract.transfer(address, _amount);
+      return await evmWallet.sendTransaction(tx);
+    } catch (error) {
+      const errorMessage = `Error sending transaction: ${error}`;
+      throw new Error(errorMessage);
+    }
+  }
 }
