@@ -264,7 +264,7 @@ describe("payment-module.ts", () => {
     it("Should return the correct total payable amount", async () => {
       const paymentModule = new PaymentModule(ctx);
       const beneficiaries = await paymentModule._getBeneficiaries(resultOriginal);
-      expect(beneficiaries == null).toEqual(false);
+      expect(beneficiaries).not.toBeNull();
       let totalPayable = 0;
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       for (const data of Object.values(beneficiaries!)) {
@@ -273,10 +273,11 @@ describe("payment-module.ts", () => {
       expect(totalPayable).toEqual(111.11);
     });
   });
-
+  const fundingWalletPrivateKey = "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80";
   describe("_canTransferDirectly()", () => {
     beforeEach(() => {
       ctx.env.PERMIT_FEE_RATE = "";
+      ctx.env.X25519_PRIVATE_KEY = "wrQ9wTI1bwdAHbxk2dfsvoK1yRwDc0CEenmMXFvGYgY";
       drop(db);
       for (const table of Object.keys(dbSeed)) {
         const tableName = table as keyof typeof dbSeed;
@@ -294,12 +295,8 @@ describe("payment-module.ts", () => {
       const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(ctx.logger, "info");
 
-      ctx.env.X25519_PRIVATE_KEY = "wrQ9wTI1bwdAHbxk2dfsvoK1yRwDc0CEenmMXFvGYgY";
       const [canTransferDirectly, erc20Wrapper, fundingWallet, beneficiaries] =
-        await paymentModule._canTransferDirectly(
-          "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80",
-          resultOriginal
-        );
+        await paymentModule._canTransferDirectly(fundingWalletPrivateKey, resultOriginal);
       expect(canTransferDirectly).toEqual(true);
       expect(erc20Wrapper).not.toBeNull();
       expect(fundingWallet).not.toBeNull();
@@ -333,9 +330,8 @@ describe("payment-module.ts", () => {
       const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(ctx.logger, "error");
 
-      ctx.env.X25519_PRIVATE_KEY = "wrQ9wTI1bwdAHbxk2dfsvoK1yRwDc0CEenmMXFvGYgY";
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
-        "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80",
+        fundingWalletPrivateKey,
         resultOriginal
       );
       expect(canTransferDirectly).toEqual(false);
@@ -370,9 +366,8 @@ describe("payment-module.ts", () => {
       const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(ctx.logger, "error");
 
-      ctx.env.X25519_PRIVATE_KEY = "wrQ9wTI1bwdAHbxk2dfsvoK1yRwDc0CEenmMXFvGYgY";
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
-        "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80",
+        fundingWalletPrivateKey,
         resultOriginal
       );
       expect(canTransferDirectly).toEqual(false);
@@ -400,9 +395,8 @@ describe("payment-module.ts", () => {
       const paymentModule = new PaymentModule(ctx);
       const spyConsoleLog = jest.spyOn(ctx.logger, "error");
 
-      ctx.env.X25519_PRIVATE_KEY = "wrQ9wTI1bwdAHbxk2dfsvoK1yRwDc0CEenmMXFvGYgY";
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
-        "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80",
+        fundingWalletPrivateKey,
         resultOriginal
       );
       expect(canTransferDirectly).toEqual(false);
