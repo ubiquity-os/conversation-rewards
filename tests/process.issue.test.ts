@@ -21,29 +21,8 @@ import cfg from "./__mocks__/results/valid-configuration.json";
 import { customOctokit as Octokit } from "@ubiquity-os/plugin-sdk/octokit";
 import { CommentAssociation } from "../src/configuration/comment-types";
 import { GitHubIssue } from "../src/github-types";
-import { parseUnits } from "ethers/lib/utils";
-import { BigNumber } from "ethers";
 
 const issueUrl = process.env.TEST_ISSUE_URL ?? "https://github.com/ubiquity-os/conversation-rewards/issues/5";
-
-const mockRewardTokenBalance = jest.fn().mockReturnValue(parseUnits("200", 18) as BigNumber);
-jest.unstable_mockModule("../src/helpers/web3", () => {
-  class MockErc20Wrapper {
-    getBalance = mockRewardTokenBalance;
-    getSymbol = jest.fn().mockReturnValue("WXDAI");
-    getDecimals = jest.fn().mockReturnValue(18);
-    sendTransferTransaction = jest.fn().mockReturnValue({ hash: "0xTransactionHash" });
-    estimateTransferGas = jest.fn().mockReturnValue(parseUnits("0.004", 18));
-  }
-  return {
-    Erc20Wrapper: MockErc20Wrapper,
-    getErc20TokenContract: jest.fn().mockReturnValue({ provider: "dummy" }),
-    getEvmWallet: jest.fn(() => ({
-      address: "0xAddress",
-      getBalance: jest.fn().mockReturnValue(parseUnits("1", 18)),
-    })),
-  };
-});
 
 jest.unstable_mockModule("@actions/github", () => ({
   default: {},
