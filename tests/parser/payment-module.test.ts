@@ -10,6 +10,7 @@ import { server } from "../__mocks__/node";
 import cfg from "../__mocks__/results/valid-configuration.json";
 import { parseUnits } from "ethers/lib/utils";
 import { BigNumber } from "ethers";
+import { PERMIT2_ABI } from "../../src/helpers/web3";
 
 const DOLLAR_ADDRESS = "0xb6919Ef2ee4aFC163BC954C5678e2BB570c2D103";
 const WXDAI_ADDRESS = "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d";
@@ -60,14 +61,15 @@ jest.unstable_mockModule("../../src/helpers/web3", () => {
     getSymbol = jest.fn().mockReturnValue("WXDAI");
     getDecimals = jest.fn().mockReturnValue(18);
   }
-  class MockDisperseAppWrapper {
-    sendDisperseTokenTransaction = jest.fn().mockReturnValue({ hash: `0xSent`, wait: async () => Promise.resolve({}) });
-    estimateDisperseTokenGas = jest.fn().mockReturnValue(parseUnits("0.02", 18));
+  class MockPermit2Wrapper {
+    generateBatchTransferPermit = jest.fn();
+    sendPermitTransferFrom = jest.fn().mockReturnValue({ hash: `0xSent`, wait: async () => Promise.resolve({}) });
+    estimatePermitTransferFromGas = jest.fn().mockReturnValue(parseUnits("0.02", 18));
   }
   return {
+    PERMIT2_ABI: PERMIT2_ABI,
     Erc20Wrapper: MockErc20Wrapper,
-    DISPERSE_APP_CONTRACT_ADDRESS: "0xDisperseApp",
-    DisperseAppWrapper: MockDisperseAppWrapper,
+    Permit2Wrapper: MockPermit2Wrapper,
     getContract: jest.fn().mockReturnValue({ provider: "dummy" }),
     getEvmWallet: jest.fn(() => ({
       address: "0xAddress",
@@ -265,7 +267,7 @@ describe("payment-module.ts", () => {
       const paymentModule = new PaymentModule(ctx);
       const beneficiaries = await paymentModule._getBeneficiaries(getResultOriginal(), 18);
       expect(beneficiaries).not.toBeNull();
-      const totalPayable = beneficiaries?.values.reduce(
+      const totalPayable = beneficiaries?.amounts.reduce(
         (accumulator, current) => accumulator.add(current),
         BigNumber.from(0)
       );
@@ -289,7 +291,7 @@ describe("payment-module.ts", () => {
       const spyConsoleLog = jest.spyOn(ctx.logger, "info");
 
       const [canTransferDirectly, erc20Wrapper, fundingWallet, beneficiaries] =
-        await paymentModule._canTransferDirectly(fundingWalletPrivateKey, getResultOriginal());
+        await paymentModule._canTransferDirectly(fundingWalletPrivateKey, getResultOriginal(), "0");
       expect(canTransferDirectly).toEqual(true);
       expect(erc20Wrapper).not.toBeNull();
       expect(fundingWallet).not.toBeNull();
@@ -329,7 +331,8 @@ describe("payment-module.ts", () => {
 
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
         fundingWalletPrivateKey,
-        getResultOriginal()
+        getResultOriginal(),
+        "0"
       );
       expect(canTransferDirectly).toEqual(false);
 
@@ -365,7 +368,8 @@ describe("payment-module.ts", () => {
 
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
         fundingWalletPrivateKey,
-        getResultOriginal()
+        getResultOriginal(),
+        "0"
       );
       expect(canTransferDirectly).toEqual(false);
 
@@ -394,7 +398,8 @@ describe("payment-module.ts", () => {
 
       const [canTransferDirectly, , ,] = await paymentModule._canTransferDirectly(
         fundingWalletPrivateKey,
-        getResultOriginal()
+        getResultOriginal(),
+        "0"
       );
       expect(canTransferDirectly).toEqual(false);
 
