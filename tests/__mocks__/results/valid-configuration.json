@@ -22,6 +22,11 @@
     },
     "dataPurge": {},
     "formattingEvaluator": {
+      "readabilityScoring": {
+        "enabled": true,
+        "weight": 0.3,
+        "idealScore": 60
+      },
       "multipliers": [
         {
           "multiplier": 1,
