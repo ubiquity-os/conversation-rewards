@@ -31,7 +31,9 @@
     "Rpcs",
     "sonarjs",
     "pico",
-    "timespan"
+    "timespan",
+    "keccak",
+    "Numberish"
   ],
   "dictionaries": ["typescript", "node", "software-terms"],
   "import": [

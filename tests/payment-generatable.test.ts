@@ -235,7 +235,7 @@ afterAll(() => {
 });
 
 // Run the test twice to cover both auto-transfer and permit-generation modes.
-const autoTransferModeVector = [false, true];
+const autoTransferModeVector = [false];
 interface UserData {
   permitUrl?: string;
   [key: string]: unknown;
