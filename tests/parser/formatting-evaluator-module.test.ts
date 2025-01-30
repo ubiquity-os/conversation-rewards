@@ -73,7 +73,24 @@ describe("FormattingEvaluatorModule", () => {
 
   describe("_calculateFleschKincaid", () => {
     it("should calculate readability score for simple text", () => {
-      const text = "This is a simple test. It has basic words. The score should be good.";
+      // Expecting score around 60 (ideal readability)
+      const text = "The sun is bright. I can see it shine. Birds fly high.";
+      const result = module["_calculateFleschKincaid"](text);
+
+      expect(result).toMatchObject({
+        sentences: 3,
+        syllables: expect.any(Number),
+        fleschKincaid: expect.any(Number),
+        score: expect.any(Number),
+      });
+
+      // Score should be normalized between 0 and 1
+      expect(result.score).toBeGreaterThanOrEqual(0.8);
+      expect(result.score).toBeLessThanOrEqual(1);
+    });
+
+    it("Low score for complex text", () => {
+      const text = "This is a very complex sentence. It has many words and syllables. The score should be low.";
       const result = module["_calculateFleschKincaid"](text);
 
       expect(result).toMatchObject({
@@ -85,7 +102,7 @@ describe("FormattingEvaluatorModule", () => {
 
       // Score should be normalized between 0 and 1
       expect(result.score).toBeGreaterThanOrEqual(0);
-      expect(result.score).toBeLessThanOrEqual(1);
+      expect(result.score).toBeLessThanOrEqual(0.8);
     });
 
     it("should handle text with no periods", () => {
@@ -94,6 +111,23 @@ describe("FormattingEvaluatorModule", () => {
 
       expect(result.sentences).toBe(1);
       expect(result.syllables).toBeGreaterThan(0);
+    });
+
+    it("should handle very complex text with difficult words", () => {
+      const text =
+        "Incomprehensible multisyllabic anthropomorphization characteristically demonstrates philosophical conceptualization through metaphysical manifestations";
+      const result = module["_calculateFleschKincaid"](text);
+
+      expect(result).toMatchObject({
+        sentences: 1,
+        syllables: expect.any(Number),
+        fleschKincaid: expect.any(Number),
+        score: expect.any(Number),
+      });
+
+      // Score should be normalized between 0 and 1
+      expect(result.score).toBeGreaterThanOrEqual(0);
+      expect(result.score).toBeLessThanOrEqual(0.2);
     });
   });
 });

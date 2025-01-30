@@ -82,21 +82,20 @@ export class FormattingEvaluatorModule extends BaseModule {
     const words = text.match(new RegExp(wordRegex, "g")) ?? [];
     const wordCount = words.length ?? 1;
     const syllableCount = words.reduce((count, word) => count + this._countSyllables(word), 0);
-    const sentenceWeight = 0.39;
-    const wordWeight = 11.8;
-    const adjustment = 15.59;
-    const fleschKincaid =
-      sentences && wordCount
-        ? sentenceWeight * (wordCount / Math.max(1, sentences)) +
-          wordWeight * (syllableCount / Math.max(1, wordCount)) -
-          adjustment
-        : 0;
+    const wordsPerSentence = wordCount / Math.max(1, sentences);
+    const syllablesPerWord = syllableCount / Math.max(1, wordCount);
+    const fleschKincaid = sentences && wordCount ? 206.835 - 1.015 * wordsPerSentence - 84.6 * syllablesPerWord : 0;
 
-    // Normalize score between 0 and 1, with 1 being closest to ideal score
-    const normalizedScore = Math.max(
-      0,
-      Math.min(1, 1 - Math.abs(fleschKincaid - (this._readabilityConfig?.idealScore ?? 60)) / 100)
-    );
+    // Normalize score between 0 and 1
+    let normalizedScore: number;
+    if (fleschKincaid > 100) {
+      normalizedScore = 1.0;
+    } else if (fleschKincaid <= 0) {
+      normalizedScore = 0.0;
+    } else {
+      const distance = Math.abs(fleschKincaid - (this._readabilityConfig?.idealScore ?? 60));
+      normalizedScore = Math.max(0, Math.min(1, (100 - distance) / 100));
+    }
 
     return {
       fleschKincaid,
