@@ -44,7 +44,7 @@ export class FormattingEvaluatorModule extends BaseModule {
     this._readabilityConfig = this._configuration?.readabilityScoring ?? {
       enabled: true,
       weight: 0.3,
-      idealScore: 60,
+      targetReadabilityScore: 60,
     };
     if (this._configuration?.multipliers) {
       this._multipliers = this._configuration.multipliers.reduce((acc, curr) => {
@@ -93,7 +93,7 @@ export class FormattingEvaluatorModule extends BaseModule {
     } else if (fleschKincaid <= 0) {
       normalizedScore = 0.0;
     } else {
-      const distance = Math.abs(fleschKincaid - (this._readabilityConfig?.idealScore ?? 60));
+      const distance = Math.abs(fleschKincaid - (this._readabilityConfig?.targetReadabilityScore ?? 60));
       normalizedScore = Math.max(0, Math.min(1, (100 - distance) / 100));
     }
 

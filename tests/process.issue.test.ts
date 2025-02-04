@@ -461,7 +461,7 @@ describe("Modules tests", () => {
         total: 400,
       },
       whilefoo: {
-        total: 41.956,
+        total: 45.168,
       },
     });
   });

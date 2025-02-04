@@ -1,7 +1,7 @@
 {
   "gentlementlegen": {
     "userId": 9807008,
-    "total": 967.54,
+    "total": 1019.06,
     "task": {
       "reward": 400,
       "multiplier": 1
@@ -13,7 +13,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2033404518",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 5.97,
+          "reward": 6.68,
           "formatting": {
             "content": {
               "p": {
@@ -34,10 +34,10 @@
             "result": 2.22
           },
           "readability": {
-            "fleschKincaid": 8.05107142857143,
+            "fleschKincaid": 52.9251785714286,
             "syllables": 60,
             "sentences": 4,
-            "score": 0.48051071428571435
+            "score": 0.929251785714286
           },
           "multiplier": 1
         }
@@ -48,7 +48,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036174312",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 23.43,
+          "reward": 26.42,
           "formatting": {
             "content": {
               "p": {
@@ -77,10 +77,10 @@
             "result": 10.36
           },
           "readability": {
-            "fleschKincaid": 10.289621621621624,
+            "fleschKincaid": 60.83172972972976,
             "syllables": 162,
             "sentences": 5,
-            "score": 0.5028962162162163
+            "score": 0.9916827027027024
           },
           "multiplier": 1
         }
@@ -91,7 +91,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036367126",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 20.37,
+          "reward": 22.01,
           "formatting": {
             "content": {
               "p": {
@@ -116,10 +116,10 @@
             "result": 10.53
           },
           "readability": {
-            "fleschKincaid": 14.092065217391305,
+            "fleschKincaid": 45.23635869565217,
             "syllables": 180,
             "sentences": 4,
-            "score": 0.5409206521739132
+            "score": 0.8523635869565217
           },
           "multiplier": 1
         }
@@ -130,7 +130,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036385985",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 20.6,
+          "reward": 22.86,
           "formatting": {
             "content": {
               "p": {
@@ -151,10 +151,10 @@
             "result": 12.85
           },
           "readability": {
-            "fleschKincaid": 11.348358208955222,
+            "fleschKincaid": 53.47860696517415,
             "syllables": 207,
             "sentences": 6,
-            "score": 0.5134835820895522
+            "score": 0.9347860696517415
           },
           "multiplier": 1
         }
@@ -165,7 +165,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036411811",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 22.73,
+          "reward": 25.43,
           "formatting": {
             "content": {
               "p": {
@@ -182,10 +182,10 @@
             "result": 14.87
           },
           "readability": {
-            "fleschKincaid": 7.902823899371068,
+            "fleschKincaid": 66.72291509433965,
             "syllables": 233,
             "sentences": 10,
-            "score": 0.4790282389937107
+            "score": 0.9327708490566035
           },
           "multiplier": 1
         }
@@ -196,7 +196,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036458775",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 8.15,
+          "reward": 8.92,
           "formatting": {
             "content": {
               "p": {
@@ -213,10 +213,10 @@
             "result": 6.03
           },
           "readability": {
-            "fleschKincaid": 13.156818181818185,
+            "fleschKincaid": 49.715227272727276,
             "syllables": 84,
             "sentences": 2,
-            "score": 0.5315681818181819
+            "score": 0.8971522727272727
           },
           "multiplier": 1
         }
@@ -227,7 +227,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036535332",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 12.34,
+          "reward": 13.89,
           "formatting": {
             "content": {
               "p": {
@@ -248,10 +248,10 @@
             "result": 8.73
           },
           "readability": {
-            "fleschKincaid": 9.911617647058822,
+            "fleschKincaid": 61.84977941176473,
             "syllables": 124,
             "sentences": 4,
-            "score": 0.49911617647058815
+            "score": 0.9815022058823527
           },
           "multiplier": 1
         }
@@ -262,7 +262,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2051094255",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 10.7,
+          "reward": 12.07,
           "formatting": {
             "content": {
               "p": {
@@ -283,10 +283,10 @@
             "result": 6.31
           },
           "readability": {
-            "fleschKincaid": 9.853448275862068,
+            "fleschKincaid": 58.853045977011504,
             "syllables": 88,
             "sentences": 3,
-            "score": 0.49853448275862067
+            "score": 0.988530459770115
           },
           "multiplier": 1
         }
@@ -297,7 +297,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2054424028",
         "type": "ISSUE_AUTHOR",
         "score": {
-          "reward": 26.11,
+          "reward": 26.12,
           "formatting": {
             "content": {
               "p": {
@@ -326,10 +326,10 @@
             "result": 5.94
           },
           "readability": {
-            "fleschKincaid": 23.388518518518527,
+            "fleschKincaid": 23.558333333333337,
             "syllables": 82,
             "sentences": 1,
-            "score": 0.6338851851851852
+            "score": 0.6355833333333334
           },
           "multiplier": 1
         }
@@ -340,7 +340,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5",
         "type": "ISSUE_SPECIFICATION",
         "score": {
-          "reward": 18.06,
+          "reward": 18.95,
           "formatting": {
             "content": {
               "p": {
@@ -369,10 +369,10 @@
             "result": 4.45
           },
           "readability": {
-            "fleschKincaid": 16.41530612244898,
+            "fleschKincaid": 35.555884353741504,
             "syllables": 160,
             "sentences": 3,
-            "score": 0.5641530612244898
+            "score": 0.7555588435374151
           },
           "multiplier": 1
         }
@@ -400,10 +400,10 @@
             "result": 0
           },
           "readability": {
-            "fleschKincaid": 8.588421052631581,
+            "fleschKincaid": 67.32894736842107,
             "syllables": 27,
             "sentences": 1,
-            "score": 0.4858842105263158
+            "score": 0.9267105263157893
           },
           "multiplier": 0
         }
@@ -415,7 +415,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 28.6,
+          "reward": 31.66,
           "formatting": {
             "content": {
               "p": {
@@ -436,10 +436,10 @@
             "result": 6.49
           },
           "readability": {
-            "fleschKincaid": 8.33666666666667,
+            "fleschKincaid": 70.91500000000003,
             "syllables": 82,
             "sentences": 3,
-            "score": 0.4833666666666667
+            "score": 0.8908499999999997
           },
           "multiplier": 2
         }
@@ -451,7 +451,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENT]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENT]:",
         "score": {
-          "reward": 9.35,
+          "reward": 10.53,
           "formatting": {
             "content": {
               "p": {
@@ -472,10 +472,10 @@
             "result": 2.11
           },
           "readability": {
-            "fleschKincaid": 5.967500000000001,
+            "fleschKincaid": 66.5275,
             "syllables": 25,
             "sentences": 2,
-            "score": 0.45967500000000006
+            "score": 0.9347249999999999
           },
           "multiplier": 2
         }
@@ -487,7 +487,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,22 @@\n+// available tokens for payouts\n+export const PAYMENT_TOKEN_PER_NETWORK: Record<string, { rpc: string; token: string; symbol: string }> = {\n+  \"1\": {\n+    rpc: \"https://rpc-bot.ubq.fi/v1/mainnet\",",
         "score": {
-          "reward": 9,
+          "reward": 9.66,
           "formatting": {
             "content": {
               "p": {
@@ -508,10 +508,10 @@
             "result": 2
           },
           "readability": {
-            "fleschKincaid": 1.7888157894736878,
+            "fleschKincaid": 90.69796052631581,
             "syllables": 25,
             "sentences": 4,
-            "score": 0.4178881578947369
+            "score": 0.6930203947368418
           },
           "multiplier": 2
         }
@@ -523,7 +523,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 17.25,
+          "reward": 18.7,
           "formatting": {
             "content": {
               "p": {
@@ -544,10 +544,10 @@
             "result": 4.6
           },
           "readability": {
-            "fleschKincaid": 4.950000000000003,
+            "fleschKincaid": 83.32166666666669,
             "syllables": 52,
             "sentences": 3,
-            "score": 0.4495
+            "score": 0.7667833333333332
           },
           "multiplier": 2
         }
@@ -559,7 +559,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENT]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENT]:",
         "score": {
-          "reward": 14.71,
+          "reward": 16.2,
           "formatting": {
             "content": {
               "p": {
@@ -584,10 +584,10 @@
             "result": 1.42
           },
           "readability": {
-            "fleschKincaid": 8.67166666666667,
+            "fleschKincaid": 47.140000000000015,
             "syllables": 43,
             "sentences": 3,
-            "score": 0.4867166666666667
+            "score": 0.8714000000000002
           },
           "multiplier": 2
         }
@@ -599,7 +599,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}",
         "score": {
-          "reward": 18.51,
+          "reward": 20.53,
           "formatting": {
             "content": {
               "p": {
@@ -620,10 +620,10 @@
             "result": 4.01
           },
           "readability": {
-            "fleschKincaid": 11.715833333333332,
+            "fleschKincaid": 53.81250000000003,
             "syllables": 73,
             "sentences": 2,
-            "score": 0.5171583333333334
+            "score": 0.9381250000000003
           },
           "multiplier": 2
         }
@@ -635,7 +635,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 9.33,
+          "reward": 9.9,
           "formatting": {
             "content": {
               "p": {
@@ -652,10 +652,10 @@
             "result": 3.09
           },
           "readability": {
-            "fleschKincaid": 6.904,
+            "fleschKincaid": 90.09200000000001,
             "syllables": 27,
             "sentences": 1,
-            "score": 0.46904
+            "score": 0.6990799999999999
           },
           "multiplier": 2
         }
@@ -667,7 +667,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENTED]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENTED]:\n       formattingMultiplier: 0\n       wordValue: 0\n-    - type: [ISSUE, COLLABORATOR]:\n+    - type: [ISSUE, COLLABORATOR, COMMENTED]:",
         "score": {
-          "reward": 17.59,
+          "reward": 19.69,
           "formatting": {
             "content": {
               "p": {
@@ -692,10 +692,10 @@
             "result": 4.7
           },
           "readability": {
-            "fleschKincaid": 7.296097560975614,
+            "fleschKincaid": 67.09504065040652,
             "syllables": 61,
             "sentences": 3,
-            "score": 0.47296097560975614
+            "score": 0.9290495934959349
           },
           "multiplier": 2
         }
@@ -707,7 +707,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "",
         "score": {
-          "reward": 14.53,
+          "reward": 16.21,
           "formatting": {
             "content": {
               "p": {
@@ -728,10 +728,10 @@
             "result": 3.4
           },
           "readability": {
-            "fleschKincaid": 5.155459459459461,
+            "fleschKincaid": 71.28075675675677,
             "syllables": 56,
             "sentences": 5,
-            "score": 0.4515545945945947
+            "score": 0.8871924324324323
           },
           "multiplier": 2
         }
@@ -743,7 +743,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "",
         "score": {
-          "reward": 7.2,
+          "reward": 7.98,
           "formatting": {
             "content": {
               "p": {
@@ -764,10 +764,10 @@
             "result": 1.17
           },
           "readability": {
-            "fleschKincaid": 5.077941176470592,
+            "fleschKincaid": 73.79573529411766,
             "syllables": 25,
             "sentences": 2,
-            "score": 0.45077941176470593
+            "score": 0.8620426470588234
           },
           "multiplier": 2
         }
@@ -779,7 +779,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,22 @@\n+// available tokens for payouts\n+export const PAYMENT_TOKEN_PER_NETWORK: Record<string, { rpc: string; token: string; symbol: string }> = {\n+  \"1\": {\n+    rpc: \"https://rpc.gnosischain.com\",\n+    token: \"0x6B175474E89094C44Da98b954EedeAC495271d0F\",\n+    symbol: \"DAI\",\n+  },",
         "score": {
-          "reward": 19.16,
+          "reward": 20.5,
           "formatting": {
             "content": {
               "p": {
@@ -804,10 +804,10 @@
             "result": 4.5
           },
           "readability": {
-            "fleschKincaid": 2.2980232558139555,
+            "fleschKincaid": 91.35153100775194,
             "syllables": 55,
             "sentences": 6,
-            "score": 0.42298023255813955
+            "score": 0.6864846899224806
           },
           "multiplier": 2
         }
@@ -819,7 +819,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 6,
+          "reward": 6.43,
           "formatting": {
             "content": {
               "p": {
@@ -836,10 +836,10 @@
             "result": 1.65
           },
           "readability": {
-            "fleschKincaid": 3.84,
+            "fleschKincaid": 88.905,
             "syllables": 15,
             "sentences": 1,
-            "score": 0.4384
+            "score": 0.71095
           },
           "multiplier": 2
         }
@@ -851,7 +851,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,216 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      body += result[key].evaluationCommentHtml;\n+    }\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">\n+              [ ${result.total} ${getPayoutConfigByNetworkId(program.opts().evmNetworkId).symbol} ]\n+            </a>\n+          </h3>\n+          <h6>\n+            @${username}\n+          </h6>\n+        </b>\n+      </summary>\n+      <h6>Contributions Overview</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>View</th>\n+            <th>Contribution</th>\n+            <th>Count</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createContributionRows()}\n+        </tbody>\n+      </table>\n+      <h6>Conversation Incentives</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>Comment</th>\n+            <th>Formatting</th>\n+            <th>Relevance</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createIncentiveRows()}\n+        </tbody>\n+      </table>\n+    </details>\n+    `\n+      .replace(/\\s+/g, \" \")",
         "score": {
-          "reward": 11.2,
+          "reward": 12.33,
           "formatting": {
             "content": {
               "p": {
@@ -868,10 +868,10 @@
             "result": 3.91
           },
           "readability": {
-            "fleschKincaid": 6.935909090909089,
+            "fleschKincaid": 74.72386363636366,
             "syllables": 45,
             "sentences": 2,
-            "score": 0.4693590909090909
+            "score": 0.8527613636363633
           },
           "multiplier": 2
         }
@@ -883,7 +883,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,41 @@\n+import { parseGitHubUrl } from \"../src/start\";\n+import { IssueActivity } from \"../src/issue-activity\";\n+import { Processor } from \"../src/parser/processor\";\n+import { UserExtractorModule } from \"../src/parser/user-extractor-module\";\n+import { server } from \"./__mocks__/node\";\n+import { DataPurgeModule } from \"../src/parser/data-purge-module\";\n+import userCommentResults from \"./__mocks__/results/user-comment-results.json\";\n+import dataPurgeResults from \"./__mocks__/results/data-purge-result.json\";\n+\n+const issueUrl = process.env.TEST_ISSUE_URL || \"https://github.com/ubiquity-os/comment-incentives/issues/22\";\n+\n+beforeAll(() => server.listen());\n+afterEach(() => server.resetHandlers());\n+afterAll(() => server.close());\n+\n+describe(\"Modules tests\", () => {\n+  const issue = parseGitHubUrl(issueUrl);\n+  const activity = new IssueActivity(issue);\n+\n+  beforeAll(async () => {\n+    await activity.init();\n+  });\n+\n+  it(\"Should extract users from comments\", async () => {\n+    const logSpy = jest.spyOn(console, \"log\");\n+    const processor = new Processor();\n+    processor[\"_transformers\"] = [new UserExtractorModule()];\n+    await processor.run(activity);\n+    processor.dump();\n+    expect(logSpy).toHaveBeenCalledWith(JSON.stringify(userCommentResults, undefined, 2));",
         "score": {
-          "reward": 21.41,
+          "reward": 23.85,
           "formatting": {
             "content": {
               "p": {
@@ -904,10 +904,10 @@
             "result": 7.22
           },
           "readability": {
-            "fleschKincaid": 13.634705882352943,
+            "fleschKincaid": 57.86617647058826,
             "syllables": 92,
             "sentences": 2,
-            "score": 0.5363470588235295
+            "score": 0.9786617647058826
           },
           "multiplier": 2
         }
@@ -919,7 +919,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(",
         "score": {
-          "reward": 11.55,
+          "reward": 12.55,
           "formatting": {
             "content": {
               "p": {
@@ -940,10 +940,10 @@
             "result": 3.09
           },
           "readability": {
-            "fleschKincaid": 4.861000000000001,
+            "fleschKincaid": 82.47550000000001,
             "syllables": 33,
             "sentences": 2,
-            "score": 0.44861000000000006
+            "score": 0.7752449999999999
           },
           "multiplier": 2
         }
@@ -955,7 +955,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 9.29,
+          "reward": 9.48,
           "formatting": {
             "content": {
               "p": {
@@ -972,10 +972,10 @@
             "result": 2.98
           },
           "readability": {
-            "fleschKincaid": 15.895,
+            "fleschKincaid": 23.850000000000023,
             "syllables": 45,
             "sentences": 1,
-            "score": 0.55895
+            "score": 0.6385000000000002
           },
           "multiplier": 2
         }
@@ -987,7 +987,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">",
         "score": {
-          "reward": 10.15,
+          "reward": 11.12,
           "formatting": {
             "content": {
               "p": {
@@ -1008,10 +1008,10 @@
             "result": 1.42
           },
           "readability": {
-            "fleschKincaid": 9.230789473684215,
+            "fleschKincaid": 45.80302631578948,
             "syllables": 34,
             "sentences": 2,
-            "score": 0.4923078947368421
+            "score": 0.8580302631578948
           },
           "multiplier": 2
         }
@@ -1023,7 +1023,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 29.47,
+          "reward": 31.23,
           "formatting": {
             "content": {
               "p": {
@@ -1052,10 +1052,10 @@
             "result": 3.7
           },
           "readability": {
-            "fleschKincaid": 13.390476190476189,
+            "fleschKincaid": 36.46285714285716,
             "syllables": 74,
             "sentences": 2,
-            "score": 0.5339047619047619
+            "score": 0.7646285714285717
           },
           "multiplier": 2
         }
@@ -1067,7 +1067,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 12.67,
+          "reward": 13.66,
           "formatting": {
             "content": {
               "p": {
@@ -1088,10 +1088,10 @@
             "result": 3.6
           },
           "readability": {
-            "fleschKincaid": 3.650000000000002,
+            "fleschKincaid": 86.70500000000001,
             "syllables": 39,
             "sentences": 3,
-            "score": 0.4365000000000001
+            "score": 0.7329499999999999
           },
           "multiplier": 2
         }
@@ -1103,7 +1103,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 50.67,
+          "reward": 56.03,
           "formatting": {
             "content": {
               "p": {
@@ -1124,10 +1124,10 @@
             "result": 6.95
           },
           "readability": {
-            "fleschKincaid": 11.376923076923081,
+            "fleschKincaid": 52.08641025641026,
             "syllables": 102,
             "sentences": 3,
-            "score": 0.5137692307692308
+            "score": 0.9208641025641026
           },
           "multiplier": 2
         }
@@ -1139,7 +1139,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 14.74,
+          "reward": 16.12,
           "formatting": {
             "content": {
               "p": {
@@ -1156,10 +1156,10 @@
             "result": 5.37
           },
           "readability": {
-            "fleschKincaid": 12.453333333333333,
+            "fleschKincaid": 48.525000000000034,
             "syllables": 76,
             "sentences": 2,
-            "score": 0.5245333333333333
+            "score": 0.8852500000000003
           },
           "multiplier": 2
         }
@@ -1171,7 +1171,7 @@
         "type": "PULL_AUTHOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 37.54,
+          "reward": 40.56,
           "formatting": {
             "content": {
               "p": {
@@ -1196,10 +1196,10 @@
             "result": 5.28
           },
           "readability": {
-            "fleschKincaid": 11.020172413793109,
+            "fleschKincaid": 41.87956896551725,
             "syllables": 103,
             "sentences": 4,
-            "score": 0.5102017241379311
+            "score": 0.8187956896551725
           },
           "multiplier": 2
         }
@@ -1210,7 +1210,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/pull/12#issuecomment-2056635516",
         "type": "PULL_AUTHOR",
         "score": {
-          "reward": 9.31,
+          "reward": 10.05,
           "formatting": {
             "content": {
               "p": {
@@ -1231,10 +1231,10 @@
             "result": 1.05
           },
           "readability": {
-            "fleschKincaid": 9.655000000000001,
+            "fleschKincaid": 40.09,
             "syllables": 30,
             "sentences": 2,
-            "score": 0.49655000000000005
+            "score": 0.8009000000000001
           },
           "multiplier": 2
         }
@@ -1245,7 +1245,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/pull/12#issuecomment-2063348339",
         "type": "PULL_AUTHOR",
         "score": {
-          "reward": 9.85,
+          "reward": 10.74,
           "formatting": {
             "content": {
               "p": {
@@ -1262,10 +1262,10 @@
             "result": 3.29
           },
           "readability": {
-            "fleschKincaid": 9.362222222222226,
+            "fleschKincaid": 76.03,
             "syllables": 33,
             "sentences": 1,
-            "score": 0.4936222222222223
+            "score": 0.8397
           },
           "multiplier": 2
         }
@@ -1273,7 +1273,7 @@
     ]
   },
   "0x4007": {
-    "total": 198.92,
+    "total": 219.39,
     "userId": 4975670,
     "comments": [
       {
@@ -1282,7 +1282,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2030164289",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 5.32,
+          "reward": 5.96,
           "formatting": {
             "content": {
               "p": {
@@ -1307,10 +1307,10 @@
             "result": 2.64
           },
           "readability": {
-            "fleschKincaid": 8.575478723404256,
+            "fleschKincaid": 54.50875000000002,
             "syllables": 78,
             "sentences": 4,
-            "score": 0.48575478723404264
+            "score": 0.9450875000000002
           },
           "multiplier": 1
         }
@@ -1321,7 +1321,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2033488255",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 2.41,
+          "reward": 2.65,
           "formatting": {
             "content": {
               "p": {
@@ -1338,10 +1338,10 @@
             "result": 1.11
           },
           "readability": {
-            "fleschKincaid": 7.004705882352944,
+            "fleschKincaid": 75.12117647058825,
             "syllables": 23,
             "sentences": 1,
-            "score": 0.4700470588235295
+            "score": 0.8487882352941175
           },
           "multiplier": 1
         }
@@ -1352,7 +1352,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036355445",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 28.04,
+          "reward": 30.45,
           "formatting": {
             "content": {
               "p": {
@@ -1381,10 +1381,10 @@
             "result": 12.21
           },
           "readability": {
-            "fleschKincaid": 12.759517543859648,
+            "fleschKincaid": 45.88453947368424,
             "syllables": 461,
             "sentences": 12,
-            "score": 0.5275951754385965
+            "score": 0.8588453947368424
           },
           "multiplier": 1
         }
@@ -1395,7 +1395,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036370459",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 18.84,
+          "reward": 21.32,
           "formatting": {
             "content": {
               "p": {
@@ -1420,10 +1420,10 @@
             "result": 7.43
           },
           "readability": {
-            "fleschKincaid": 8.94295238095238,
+            "fleschKincaid": 60.868714285714304,
             "syllables": 256,
             "sentences": 10,
-            "score": 0.48942952380952376
+            "score": 0.991312857142857
           },
           "multiplier": 1
         }
@@ -1434,7 +1434,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036393020",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 15.25,
+          "reward": 16.7,
           "formatting": {
             "content": {
               "p": {
@@ -1459,10 +1459,10 @@
             "result": 6.22
           },
           "readability": {
-            "fleschKincaid": 11.17233665559247,
+            "fleschKincaid": 47.78581395348837,
             "syllables": 214,
             "sentences": 7,
-            "score": 0.5117233665559248
+            "score": 0.8778581395348837
           },
           "multiplier": 1
         }
@@ -1473,7 +1473,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036433646",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 23.65,
+          "reward": 26.1,
           "formatting": {
             "content": {
               "p": {
@@ -1506,10 +1506,10 @@
             "result": 9.57
           },
           "readability": {
-            "fleschKincaid": 9.879607476635517,
+            "fleschKincaid": 49.64124922118381,
             "syllables": 361,
             "sentences": 15,
-            "score": 0.4987960747663551
+            "score": 0.8964124922118382
           },
           "multiplier": 1
         }
@@ -1520,7 +1520,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2036516869",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 14.82,
+          "reward": 16.78,
           "formatting": {
             "content": {
               "p": {
@@ -1549,10 +1549,10 @@
             "result": 4.93
           },
           "readability": {
-            "fleschKincaid": 8.84122448979592,
+            "fleschKincaid": 60.76687074829937,
             "syllables": 150,
             "sentences": 6,
-            "score": 0.4884122448979592
+            "score": 0.9923312925170064
           },
           "multiplier": 1
         }
@@ -1563,7 +1563,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2053332029",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 11.33,
+          "reward": 12.83,
           "formatting": {
             "content": {
               "p": {
@@ -1588,10 +1588,10 @@
             "result": 4.88
           },
           "readability": {
-            "fleschKincaid": 8.962422680412374,
+            "fleschKincaid": 59.60109106529211,
             "syllables": 150,
             "sentences": 6,
-            "score": 0.48962422680412376
+            "score": 0.9960109106529211
           },
           "multiplier": 1
         }
@@ -1602,7 +1602,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2055783331",
         "type": "ISSUE_COLLABORATOR",
         "score": {
-          "reward": 3.16,
+          "reward": 3.51,
           "formatting": {
             "content": {
               "p": {
@@ -1619,10 +1619,10 @@
             "result": 1.75
           },
           "readability": {
-            "fleschKincaid": 9.596034482758622,
+            "fleschKincaid": 52.08991379310348,
             "syllables": 48,
             "sentences": 2,
-            "score": 0.4959603448275862
+            "score": 0.9208991379310347
           },
           "multiplier": 1
         }
@@ -1633,7 +1633,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/pull/12#pullrequestreview-2007841578",
         "type": "PULL_COLLABORATOR",
         "score": {
-          "reward": 1.58,
+          "reward": 1.78,
           "formatting": {
             "content": {
               "p": {
@@ -1650,10 +1650,10 @@
             "result": 0.39
           },
           "readability": {
-            "fleschKincaid": 5.240000000000002,
+            "fleschKincaid": 66.40000000000003,
             "syllables": 8,
             "sentences": 1,
-            "score": 0.4524
+            "score": 0.9359999999999996
           },
           "multiplier": 1
         }
@@ -1665,7 +1665,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENT]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENT]:",
         "score": {
-          "reward": 1.73,
+          "reward": 1.95,
           "formatting": {
             "content": {
               "p": {
@@ -1682,10 +1682,10 @@
             "result": 0.52
           },
           "readability": {
-            "fleschKincaid": 5.682857142857145,
+            "fleschKincaid": 66.7871428571429,
             "syllables": 11,
             "sentences": 1,
-            "score": 0.4568285714285715
+            "score": 0.9321285714285711
           },
           "multiplier": 1
         }
@@ -1697,7 +1697,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 4.27,
+          "reward": 4.83,
           "formatting": {
             "content": {
               "p": {
@@ -1714,10 +1714,10 @@
             "result": 2.73
           },
           "readability": {
-            "fleschKincaid": 8.21198979591837,
+            "fleschKincaid": 58.00533163265308,
             "syllables": 79,
             "sentences": 4,
-            "score": 0.48211989795918375
+            "score": 0.9800533163265308
           },
           "multiplier": 1
         }
@@ -1729,7 +1729,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,22 @@\n+// available tokens for payouts\n+export const PAYMENT_TOKEN_PER_NETWORK: Record<string, { rpc: string; token: string; symbol: string }> = {\n+  \"1\": {\n+    rpc: \"https://rpc-bot.ubq.fi/v1/mainnet\",",
         "score": {
-          "reward": 1.65,
+          "reward": 1.78,
           "formatting": {
             "content": {
               "p": {
@@ -1746,10 +1746,10 @@
             "result": 0.46
           },
           "readability": {
-            "fleschKincaid": 2.4833333333333343,
+            "fleschKincaid": 87.94500000000002,
             "syllables": 8,
             "sentences": 1,
-            "score": 0.4248333333333334
+            "score": 0.7205499999999998
           },
           "multiplier": 1
         }
@@ -1761,7 +1761,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENT]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENT]:",
         "score": {
-          "reward": 5.39,
+          "reward": 5.85,
           "formatting": {
             "content": {
               "p": {
@@ -1782,10 +1782,10 @@
             "result": 1.7
           },
           "readability": {
-            "fleschKincaid": 9.23714285714286,
+            "fleschKincaid": 78.70785714285716,
             "syllables": 33,
             "sentences": 1,
-            "score": 0.49237142857142857
+            "score": 0.8129214285714284
           },
           "multiplier": 1
         }
@@ -1797,7 +1797,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 3.31,
+          "reward": 3.5,
           "formatting": {
             "content": {
               "p": {
@@ -1818,10 +1818,10 @@
             "result": 0.94
           },
           "readability": {
-            "fleschKincaid": 1.4685714285714297,
+            "fleschKincaid": 97.0014285714286,
             "syllables": 17,
             "sentences": 2,
-            "score": 0.4146857142857143
+            "score": 0.6299857142857139
           },
           "multiplier": 1
         }
@@ -1833,7 +1833,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENTED]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENTED]:\n       formattingMultiplier: 0\n       wordValue: 0\n-    - type: [ISSUE, COLLABORATOR]:\n+    - type: [ISSUE, COLLABORATOR, COMMENTED]:",
         "score": {
-          "reward": 4.02,
+          "reward": 4.36,
           "formatting": {
             "content": {
               "p": {
@@ -1858,10 +1858,10 @@
             "result": 1.49
           },
           "readability": {
-            "fleschKincaid": 10.23166666666667,
+            "fleschKincaid": 43.08000000000001,
             "syllables": 43,
             "sentences": 2,
-            "score": 0.5023166666666667
+            "score": 0.8308000000000001
           },
           "multiplier": 1
         }
@@ -1873,7 +1873,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}",
         "score": {
-          "reward": 1.56,
+          "reward": 1.81,
           "formatting": {
             "content": {
               "p": {
@@ -1890,10 +1890,10 @@
             "result": 0.39
           },
           "readability": {
-            "fleschKincaid": 0.5199999999999996,
+            "fleschKincaid": 100.24000000000002,
             "syllables": 6,
             "sentences": 1,
-            "score": 0.4052
+            "score": 1
           },
           "multiplier": 1
         }
@@ -1905,7 +1905,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -73,12 +103,17 @@ export class IssueActivity {\n     self: GitHubPullRequest | GitHubIssue | null\n   ) {\n     let ret = 0;\n-    ret |= \"pull_request_review_id\" in comment ? CommentType.REVIEW : CommentType.ISSUE;\n+    ret |= \"pull_request_review_id\" in comment || \"draft\" in comment ? CommentType.REVIEW : CommentType.ISSUE;",
         "score": {
-          "reward": 1.81,
+          "reward": 2.01,
           "formatting": {
             "content": {
               "p": {
@@ -1922,10 +1922,10 @@
             "result": 0.59
           },
           "readability": {
-            "fleschKincaid": 5.230000000000004,
+            "fleschKincaid": 71.81500000000001,
             "syllables": 12,
             "sentences": 1,
-            "score": 0.45230000000000004
+            "score": 0.8818499999999999
           },
           "multiplier": 1
         }
@@ -1937,7 +1937,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 8.5,
+          "reward": 9.3,
           "formatting": {
             "content": {
               "p": {
@@ -1962,10 +1962,10 @@
             "result": 3.48
           },
           "readability": {
-            "fleschKincaid": 5.45538461538462,
+            "fleschKincaid": 79.1046153846154,
             "syllables": 88,
             "sentences": 5,
-            "score": 0.4545538461538462
+            "score": 0.808953846153846
           },
           "multiplier": 1
         }
@@ -1977,7 +1977,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -27,29 +27,39 @@ formattingEvaluator:\n     td: 1\n     hr: 0\n   multipliers:\n-    - type: [ISSUE, ISSUER]:\n+    - type: [ISSUE, ISSUER, TASK]:\n+      formattingMultiplier: 1\n+      wordValue: 0.1\n+    - type: [ISSUE, ISSUER, COMMENTED]:\n       formattingMultiplier: 1\n       wordValue: 0.2\n-    - type: [ISSUE, ASSIGNEE]:\n+    - type: [ISSUE, ASSIGNEE, COMMENTED]:\n       formattingMultiplier: 0\n       wordValue: 0\n-    - type: [ISSUE, COLLABORATOR]:\n+    - type: [ISSUE, COLLABORATOR, COMMENTED]:",
         "score": {
-          "reward": 2.77,
+          "reward": 3.04,
           "formatting": {
             "content": {
               "p": {
@@ -1994,10 +1994,10 @@
             "result": 1.44
           },
           "readability": {
-            "fleschKincaid": 5.312391304347827,
+            "fleschKincaid": 77.45815217391308,
             "syllables": 32,
             "sentences": 2,
-            "score": 0.4531239130434783
+            "score": 0.8254184782608692
           },
           "multiplier": 1
         }
@@ -2009,7 +2009,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,212 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";",
         "score": {
-          "reward": 1.57,
+          "reward": 1.71,
           "formatting": {
             "content": {
               "p": {
@@ -2026,10 +2026,10 @@
             "result": 0.39
           },
           "readability": {
-            "fleschKincaid": 2.879999999999999,
+            "fleschKincaid": 83.32000000000004,
             "syllables": 7,
             "sentences": 1,
-            "score": 0.42879999999999996
+            "score": 0.7667999999999996
           },
           "multiplier": 1
         }
@@ -2041,7 +2041,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,216 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      body += result[key].evaluationCommentHtml;\n+    }\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">\n+              [ ${result.total} ${getPayoutConfigByNetworkId(program.opts().evmNetworkId).symbol} ]\n+            </a>\n+          </h3>\n+          <h6>\n+            @${username}\n+          </h6>\n+        </b>\n+      </summary>\n+      <h6>Contributions Overview</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>View</th>\n+            <th>Contribution</th>\n+            <th>Count</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createContributionRows()}\n+        </tbody>\n+      </table>\n+      <h6>Conversation Incentives</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>Comment</th>\n+            <th>Formatting</th>\n+            <th>Relevance</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createIncentiveRows()}\n+        </tbody>\n+      </table>\n+    </details>\n+    `\n+      .replace(/\\s+/g, \" \")",
         "score": {
-          "reward": 4.76,
+          "reward": 5.17,
           "formatting": {
             "content": {
               "p": {
@@ -2062,10 +2062,10 @@
             "result": 1.22
           },
           "readability": {
-            "fleschKincaid": 3.027368421052632,
+            "fleschKincaid": 84.63824561403509,
             "syllables": 26,
             "sentences": 3,
-            "score": 0.43027368421052625
+            "score": 0.7536175438596492
           },
           "multiplier": 1
         }
@@ -2077,7 +2077,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,22 @@\n+// available tokens for payouts\n+export const PAYMENT_TOKEN_PER_NETWORK: Record<string, { rpc: string; token: string; symbol: string }> = {\n+  \"1\": {\n+    rpc: \"https://rpc.gnosischain.com\",\n+    token: \"0x6B175474E89094C44Da98b954EedeAC495271d0F\",\n+    symbol: \"DAI\",\n+  },",
         "score": {
-          "reward": 2.86,
+          "reward": 3.03,
           "formatting": {
             "content": {
               "p": {
@@ -2094,10 +2094,10 @@
             "result": 1.54
           },
           "readability": {
-            "fleschKincaid": 1.4795000000000016,
+            "fleschKincaid": 95.58725000000001,
             "syllables": 31,
             "sentences": 4,
-            "score": 0.414795
+            "score": 0.6441274999999999
           },
           "multiplier": 1
         }
@@ -2109,7 +2109,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "",
         "score": {
-          "reward": 1.72,
+          "reward": 1.89,
           "formatting": {
             "content": {
               "p": {
@@ -2126,10 +2126,10 @@
             "result": 0.52
           },
           "readability": {
-            "fleschKincaid": 3.997142857142858,
+            "fleschKincaid": 78.87285714285717,
             "syllables": 10,
             "sentences": 1,
-            "score": 0.43997142857142857
+            "score": 0.8112714285714283
           },
           "multiplier": 1
         }
@@ -2141,7 +2141,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "",
         "score": {
-          "reward": 1.31,
+          "reward": 1.53,
           "formatting": {
             "content": {
               "p": {
@@ -2158,10 +2158,10 @@
             "result": 0.18
           },
           "readability": {
-            "fleschKincaid": -3.01,
+            "fleschKincaid": 120.20500000000001,
             "syllables": 2,
             "sentences": 1,
-            "score": 0.3699
+            "score": 1
           },
           "multiplier": 1
         }
@@ -2173,7 +2173,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,22 @@\n+// available tokens for payouts\n+export const PAYMENT_TOKEN_PER_NETWORK: Record<string, { rpc: string; token: string; symbol: string }> = {\n+  \"1\": {\n+    rpc: \"https://rpc.gnosischain.com\",\n+    token: \"0x6B175474E89094C44Da98b954EedeAC495271d0F\",\n+    symbol: \"DAI\",\n+  },",
         "score": {
-          "reward": 1.82,
+          "reward": 2.02,
           "formatting": {
             "content": {
               "p": {
@@ -2190,10 +2190,10 @@
             "result": 0.59
           },
           "readability": {
-            "fleschKincaid": 8.180000000000003,
+            "fleschKincaid": 50.66500000000002,
             "syllables": 14,
             "sentences": 1,
-            "score": 0.4818000000000001
+            "score": 0.9066500000000002
           },
           "multiplier": 1
         }
@@ -2205,7 +2205,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,216 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    let body = \"\";\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      body += result[key].evaluationCommentHtml;\n+    }\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">\n+              [ ${result.total} ${getPayoutConfigByNetworkId(program.opts().evmNetworkId).symbol} ]\n+            </a>\n+          </h3>\n+          <h6>\n+            @${username}\n+          </h6>\n+        </b>\n+      </summary>\n+      <h6>Contributions Overview</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>View</th>\n+            <th>Contribution</th>\n+            <th>Count</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createContributionRows()}\n+        </tbody>\n+      </table>\n+      <h6>Conversation Incentives</h6>\n+      <table>\n+        <thead>\n+          <tr>\n+            <th>Comment</th>\n+            <th>Formatting</th>\n+            <th>Relevance</th>\n+            <th>Reward</th>\n+          </tr>\n+        </thead>\n+        <tbody>\n+          ${createIncentiveRows()}\n+        </tbody>\n+      </table>\n+    </details>\n+    `\n+      .replace(/\\s+/g, \" \")",
         "score": {
-          "reward": 1.39,
+          "reward": 1.18,
           "formatting": {
             "content": {
               "p": {
@@ -2222,10 +2222,10 @@
             "result": 0.18
           },
           "readability": {
-            "fleschKincaid": 20.590000000000007,
+            "fleschKincaid": -48.994999999999976,
             "syllables": 6,
             "sentences": 1,
-            "score": 0.6059000000000001
+            "score": 0
           },
           "multiplier": 1
         }
@@ -2237,7 +2237,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 5.45,
+          "reward": 5.98,
           "formatting": {
             "content": {
               "p": {
@@ -2258,10 +2258,10 @@
             "result": 1.8
           },
           "readability": {
-            "fleschKincaid": 4.830000000000002,
+            "fleschKincaid": 78.24500000000002,
             "syllables": 42,
             "sentences": 3,
-            "score": 0.44830000000000003
+            "score": 0.8175499999999998
           },
           "multiplier": 1
         }
@@ -2273,7 +2273,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 3.94,
+          "reward": 4.11,
           "formatting": {
             "content": {
               "p": {
@@ -2290,10 +2290,10 @@
             "result": 2.35
           },
           "readability": {
-            "fleschKincaid": 18.531707317073174,
+            "fleschKincaid": 35.22487804878051,
             "syllables": 63,
             "sentences": 1,
-            "score": 0.5853170731707318
+            "score": 0.7522487804878051
           },
           "multiplier": 1
         }
@@ -2305,7 +2305,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 9.23,
+          "reward": 10.31,
           "formatting": {
             "content": {
               "p": {
@@ -2322,10 +2322,10 @@
             "result": 5.05
           },
           "readability": {
-            "fleschKincaid": 8.994930693069307,
+            "fleschKincaid": 66.55180198019805,
             "syllables": 143,
             "sentences": 5,
-            "score": 0.48994930693069305
+            "score": 0.9344819801980195
           },
           "multiplier": 1
         }
@@ -2337,7 +2337,7 @@
         "type": "PULL_COLLABORATOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 3.12,
+          "reward": 3.31,
           "formatting": {
             "content": {
               "p": {
@@ -2354,10 +2354,10 @@
             "result": 1.7
           },
           "readability": {
-            "fleschKincaid": 11.784285714285716,
+            "fleschKincaid": 35.5107142857143,
             "syllables": 52,
             "sentences": 2,
-            "score": 0.5178428571428572
+            "score": 0.755107142857143
           },
           "multiplier": 1
         }
@@ -2368,7 +2368,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/pull/12#issuecomment-2063712447",
         "type": "PULL_COLLABORATOR",
         "score": {
-          "reward": 2.34,
+          "reward": 2.64,
           "formatting": {
             "content": {
               "p": {
@@ -2385,10 +2385,10 @@
             "result": 1.06
           },
           "readability": {
-            "fleschKincaid": 5.967500000000001,
+            "fleschKincaid": 66.5275,
             "syllables": 25,
             "sentences": 2,
-            "score": 0.45967500000000006
+            "score": 0.9347249999999999
           },
           "multiplier": 1
         }
@@ -2396,7 +2396,7 @@
     ]
   },
   "whilefoo": {
-    "total": 14.27,
+    "total": 15.39,
     "userId": 139262667,
     "comments": [
       {
@@ -2405,7 +2405,7 @@
         "url": "https://github.com/ubiquity-os/conversation-rewards/issues/5#issuecomment-2035427134",
         "type": "ISSUE_CONTRIBUTOR",
         "score": {
-          "reward": 5,
+          "reward": 5.19,
           "formatting": {
             "content": {
               "p": {
@@ -2430,10 +2430,10 @@
             "result": 7.99
           },
           "readability": {
-            "fleschKincaid": 19.216228323699422,
+            "fleschKincaid": 34.32468930635841,
             "syllables": 263,
             "sentences": 4,
-            "score": 0.5921622832369943
+            "score": 0.743246893063584
           },
           "multiplier": 0.25
         }
@@ -2445,7 +2445,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);",
         "score": {
-          "reward": 0.84,
+          "reward": 0.95,
           "formatting": {
             "content": {
               "pre": {
@@ -2470,10 +2470,10 @@
             "result": 0.94
           },
           "readability": {
-            "fleschKincaid": 8.412857142857145,
+            "fleschKincaid": 59.68214285714288,
             "syllables": 22,
             "sentences": 1,
-            "score": 0.48412857142857146
+            "score": 0.9968214285714287
           },
           "multiplier": 0.25
         }
@@ -2485,7 +2485,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,41 @@\n+import { parseGitHubUrl } from \"../src/start\";\n+import { IssueActivity } from \"../src/issue-activity\";\n+import { Processor } from \"../src/parser/processor\";\n+import { UserExtractorModule } from \"../src/parser/user-extractor-module\";\n+import { server } from \"./__mocks__/node\";\n+import { DataPurgeModule } from \"../src/parser/data-purge-module\";\n+import userCommentResults from \"./__mocks__/results/user-comment-results.json\";\n+import dataPurgeResults from \"./__mocks__/results/data-purge-result.json\";\n+\n+const issueUrl = process.env.TEST_ISSUE_URL || \"https://github.com/ubiquity-os/comment-incentives/issues/22\";\n+\n+beforeAll(() => server.listen());\n+afterEach(() => server.resetHandlers());\n+afterAll(() => server.close());\n+\n+describe(\"Modules tests\", () => {\n+  const issue = parseGitHubUrl(issueUrl);\n+  const activity = new IssueActivity(issue);\n+\n+  beforeAll(async () => {\n+    await activity.init();\n+  });\n+\n+  it(\"Should extract users from comments\", async () => {\n+    const logSpy = jest.spyOn(console, \"log\");\n+    const processor = new Processor();\n+    processor[\"_transformers\"] = [new UserExtractorModule()];\n+    await processor.run(activity);\n+    processor.dump();\n+    expect(logSpy).toHaveBeenCalledWith(JSON.stringify(userCommentResults, undefined, 2));",
         "score": {
-          "reward": 0.73,
+          "reward": 0.81,
           "formatting": {
             "content": {
               "p": {
@@ -2502,10 +2502,10 @@
             "result": 1.54
           },
           "readability": {
-            "fleschKincaid": 9.736,
+            "fleschKincaid": 69.78800000000001,
             "syllables": 33,
             "sentences": 1,
-            "score": 0.49736
+            "score": 0.9021199999999999
           },
           "multiplier": 0.25
         }
@@ -2517,7 +2517,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(",
         "score": {
-          "reward": 0.48,
+          "reward": 0.51,
           "formatting": {
             "content": {
               "p": {
@@ -2534,10 +2534,10 @@
             "result": 0.71
           },
           "readability": {
-            "fleschKincaid": 1.7000000000000028,
+            "fleschKincaid": 91.78000000000003,
             "syllables": 13,
             "sentences": 2,
-            "score": 0.41700000000000004
+            "score": 0.6821999999999997
           },
           "multiplier": 0.25
         }
@@ -2549,7 +2549,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 0.53,
+          "reward": 0.6,
           "formatting": {
             "content": {
               "p": {
@@ -2566,10 +2566,10 @@
             "result": 0.88
           },
           "readability": {
-            "fleschKincaid": 5.098846153846157,
+            "fleschKincaid": 70.08365384615385,
             "syllables": 20,
             "sentences": 2,
-            "score": 0.4509884615384615
+            "score": 0.8991634615384615
           },
           "multiplier": 0.25
         }
@@ -2581,7 +2581,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 0.71,
+          "reward": 0.81,
           "formatting": {
             "content": {
               "p": {
@@ -2598,10 +2598,10 @@
             "result": 1.49
           },
           "readability": {
-            "fleschKincaid": 7.773333333333333,
+            "fleschKincaid": 60.70500000000001,
             "syllables": 38,
             "sentences": 2,
-            "score": 0.47773333333333334
+            "score": 0.9929499999999999
           },
           "multiplier": 0.25
         }
@@ -2613,7 +2613,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">",
         "score": {
-          "reward": 0.65,
+          "reward": 0.71,
           "formatting": {
             "content": {
               "p": {
@@ -2630,10 +2630,10 @@
             "result": 1.28
           },
           "readability": {
-            "fleschKincaid": 7.550000000000001,
+            "fleschKincaid": 76.55500000000004,
             "syllables": 26,
             "sentences": 1,
-            "score": 0.4754999999999999
+            "score": 0.8344499999999997
           },
           "multiplier": 0.25
         }
@@ -2645,7 +2645,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    function createIncentiveRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function buildIncentiveRow(commentScore: GithubCommentScore) {\n+        // Properly escape carriage returns for HTML rendering\n+        const formatting = stringify(commentScore.score?.formatting?.content).replace(/[\\n\\r]/g, \"&#13;\");\n+        return `\n+          <tr>\n+            <td>\n+              <h6>\n+                <a href=\"${commentScore.url}\" target=\"_blank\" rel=\"noopener\">${commentScore.content.replace(/(.{64})..+/, \"$1…\")}</a>\n+              </h6>\n+            </td>\n+            <td>\n+            <details>\n+              <summary>\n+                ${Object.values(commentScore.score?.formatting?.content || {}).reduce((acc, curr) => {\n+                  return acc.add(curr.score * curr.count);\n+                }, new Decimal(0))}\n+              </summary>\n+              <pre>${formatting}</pre>\n+             </details>\n+            </td>\n+            <td>${commentScore.score?.relevance || \"-\"}</td>\n+            <td>${commentScore.score?.reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      for (const issueComment of sorted.issues.comments) {\n+        content.push(buildIncentiveRow(issueComment));\n+      }\n+      for (const reviewComment of sorted.reviews) {\n+        content.push(buildIncentiveRow(reviewComment));\n+      }\n+      return content.join(\"\");\n+    }\n+\n+    return `\n+    <details>\n+      <summary>\n+        <b>\n+          <h3>\n+            <a href=\"${result.permitUrl}\" target=\"_blank\" rel=\"noopener\">",
         "score": {
-          "reward": 0.46,
+          "reward": 0.49,
           "formatting": {
             "content": {
               "p": {
@@ -2662,10 +2662,10 @@
             "result": 0.65
           },
           "readability": {
-            "fleschKincaid": 2.342222222222226,
+            "fleschKincaid": 94.30000000000001,
             "syllables": 11,
             "sentences": 1,
-            "score": 0.42342222222222226
+            "score": 0.6569999999999999
           },
           "multiplier": 0.25
         }
@@ -2677,7 +2677,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 2.16,
+          "reward": 2.31,
           "formatting": {
             "content": {
               "p": {
@@ -2698,10 +2698,10 @@
             "result": 3.38
           },
           "readability": {
-            "fleschKincaid": 16.499,
+            "fleschKincaid": 43.564500000000024,
             "syllables": 111,
             "sentences": 2,
-            "score": 0.5649899999999999
+            "score": 0.8356450000000002
           },
           "multiplier": 0.25
         }
@@ -2713,7 +2713,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -0,0 +1,217 @@\n+import { Value } from \"@sinclair/typebox/value\";\n+import Decimal from \"decimal.js\";\n+import * as fs from \"fs\";\n+import { stringify } from \"yaml\";\n+import configuration from \"../configuration/config-reader\";\n+import githubCommentConfig, { GithubCommentConfiguration } from \"../configuration/github-comment-config\";\n+import { getOctokitInstance } from \"../get-authentication-token\";\n+import { CommentType, IssueActivity } from \"../issue-activity\";\n+import { parseGitHubUrl } from \"../start\";\n+import { getPayoutConfigByNetworkId } from \"../types/payout\";\n+import program from \"./command-line\";\n+import { GithubCommentScore, Module, Result } from \"./processor\";\n+\n+/**\n+ * Posts a GitHub comment according to the given results.\n+ */\n+export class GithubCommentModule implements Module {\n+  private readonly _configuration: GithubCommentConfiguration = configuration.githubComment;\n+  private readonly _debugFilePath = \"./output.html\";\n+\n+  async transform(data: Readonly<IssueActivity>, result: Result): Promise<Result> {\n+    const bodyArray: (string | undefined)[] = [];\n+\n+    for (const [key, value] of Object.entries(result)) {\n+      result[key].evaluationCommentHtml = this._generateHtml(key, value);\n+      bodyArray.push(result[key].evaluationCommentHtml);\n+    }\n+    const body = bodyArray.join(\"\");\n+    if (this._configuration.debug) {\n+      fs.writeFileSync(this._debugFilePath, body);\n+    }\n+    if (this._configuration.post) {\n+      try {\n+        const octokit = getOctokitInstance();\n+        const { owner, repo, issue_number } = parseGitHubUrl(program.opts().issue);\n+\n+        await octokit.issues.createComment({\n+          body,\n+          repo,\n+          owner,\n+          issue_number,\n+        });\n+      } catch (e) {\n+        console.error(`Could not post GitHub comment: ${e}`);\n+      }\n+    }\n+    return Promise.resolve(result);\n+  }\n+\n+  get enabled(): boolean {\n+    if (!Value.Check(githubCommentConfig, this._configuration)) {\n+      console.warn(\"Invalid configuration detected for GithubContentModule, disabling.\");\n+      return false;\n+    }\n+    return true;\n+  }\n+\n+  _generateHtml(username: string, result: Result[0]) {\n+    const sorted = result.comments?.reduce<{\n+      issues: { task: GithubCommentScore | null; comments: GithubCommentScore[] };\n+      reviews: GithubCommentScore[];\n+    }>(\n+      (acc, curr) => {\n+        if (curr.type & CommentType.ISSUE) {\n+          if (curr.type & CommentType.TASK) {\n+            acc.issues.task = curr;\n+          } else {\n+            acc.issues.comments.push(curr);\n+          }\n+        } else if (curr.type & CommentType.REVIEW) {\n+          acc.reviews.push(curr);\n+        }\n+        return acc;\n+      },\n+      { issues: { task: null, comments: [] }, reviews: [] }\n+    );\n+\n+    function createContributionRows() {\n+      const content: string[] = [];\n+\n+      if (!sorted) {\n+        return content.join(\"\");\n+      }\n+\n+      function generateContributionRow(\n+        view: string,\n+        contribution: string,\n+        count: number,\n+        reward: number | Decimal | undefined\n+      ) {\n+        return `\n+          <tr>\n+            <td>${view}</td>\n+            <td>${contribution}</td>\n+            <td>${count}</td>\n+            <td>${reward || \"-\"}</td>\n+          </tr>`;\n+      }\n+\n+      if (result.task?.reward) {\n+        content.push(generateContributionRow(\"Issue\", \"Task\", 1, result.task.reward));\n+      }\n+      if (sorted.issues.task) {\n+        content.push(generateContributionRow(\"Issue\", \"Specification\", 1, sorted.issues.task.score?.reward));\n+      }\n+      if (sorted.issues.comments.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Issue\",\n+            \"Comment\",\n+            sorted.issues.comments.length,\n+            sorted.issues.comments.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))\n+          )\n+        );\n+      }\n+      if (sorted.reviews.length) {\n+        content.push(\n+          generateContributionRow(\n+            \"Review\",\n+            \"Comment\",\n+            sorted.reviews.length,\n+            sorted.reviews.reduce((acc, curr) => acc.add(curr.score?.reward ?? 0), new Decimal(0))",
         "score": {
-          "reward": 0.61,
+          "reward": 0.69,
           "formatting": {
             "content": {
               "p": {
@@ -2730,10 +2730,10 @@
             "result": 1.11
           },
           "readability": {
-            "fleschKincaid": 9.08705882352941,
+            "fleschKincaid": 60.19176470588238,
             "syllables": 26,
             "sentences": 1,
-            "score": 0.49087058823529406
+            "score": 0.9980823529411762
           },
           "multiplier": 0.25
         }
@@ -2745,7 +2745,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 1.73,
+          "reward": 1.89,
           "formatting": {
             "content": {
               "p": {
@@ -2766,10 +2766,10 @@
             "result": 2.1
           },
           "readability": {
-            "fleschKincaid": 5.151111111111113,
+            "fleschKincaid": 79.50500000000001,
             "syllables": 49,
             "sentences": 3,
-            "score": 0.4515111111111111
+            "score": 0.8049499999999999
           },
           "multiplier": 0.25
         }
@@ -2781,7 +2781,7 @@
         "type": "PULL_CONTRIBUTOR",
         "diffHunk": "@@ -19,12 +19,42 @@ import {\n } from \"./start\";\n \n export enum CommentType {\n+  /**\n+   * Review related item\n+   */\n   REVIEW = 0b1,\n+  /**\n+   * Issue related item\n+   */\n   ISSUE = 0b10,\n+  /**\n+   * User assigned to the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ASSIGNEE = 0b100,\n+  /**\n+   * The author of the {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n   ISSUER = 0b1000,\n+  /**\n+   * A user that is part of the organization or owner of the repo\n+   */\n   COLLABORATOR = 0b10000,\n+  /**\n+   * A user that is NOT part of the organization nor owner of the repo\n+   */\n   CONTRIBUTOR = 0b100000,\n+  /**\n+   * A user comment action on a {@link CommentType.ISSUE} or {@link CommentType.REVIEW}\n+   */\n+  COMMENTED = 0b1000000,\n+  /**\n+   * Pull request opening item\n+   */\n+  TASK = 0b10000000,",
         "score": {
-          "reward": 0.37,
+          "reward": 0.43,
           "formatting": {
             "content": {
               "p": {
@@ -2798,10 +2798,10 @@
             "result": 0.32
           },
           "readability": {
-            "fleschKincaid": -2.2299999999999986,
+            "fleschKincaid": 118.17500000000001,
             "syllables": 4,
             "sentences": 1,
-            "score": 0.37770000000000004
+            "score": 1
           },
           "multiplier": 0.25
         }

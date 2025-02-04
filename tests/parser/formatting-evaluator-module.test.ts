@@ -13,7 +13,7 @@ describe("FormattingEvaluatorModule", () => {
           readabilityScoring: {
             enabled: true,
             weight: 0.3,
-            idealScore: 60,
+            targetReadabilityScore: 60,
           },
           multipliers: [
             {

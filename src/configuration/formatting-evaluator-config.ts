@@ -74,7 +74,7 @@ export const formattingEvaluatorConfigurationType = Type.Object(
           default: 0.3,
           description: "Weight of readability score in the total formatting score",
         }),
-        idealScore: Type.Number({
+        targetReadabilityScore: Type.Number({
           default: 60,
           description: "Ideal Flesch-Kincaid score (60-70 is considered ideal for general audience)",
         }),
