@@ -60,6 +60,7 @@ jest.unstable_mockModule("../../src/helpers/web3", () => {
     getBalance = mockRewardTokenBalance;
     getSymbol = jest.fn().mockReturnValue("WXDAI");
     getDecimals = jest.fn().mockReturnValue(18);
+    getAllowance = mockRewardTokenBalance;
   }
   class MockPermit2Wrapper {
     generateBatchTransferPermit = jest.fn();
@@ -316,6 +317,7 @@ describe("payment-module.ts", () => {
       expect(logCallMetadata.gas.has).toEqual(parseUnits("1", 18).toString());
       expect(logCallMetadata.gas.required).toEqual(parseUnits("0.02", 18).toString());
       expect(logCallMetadata.rewardToken.has).toEqual(parseUnits("200", 18).toString());
+      expect(logCallMetadata.rewardToken.allowed).toEqual(parseUnits("200", 18).toString());
       expect(logCallMetadata.rewardToken.required).toEqual(parseUnits("111.11", 18).toString());
 
       spyConsoleLog.mockReset();
@@ -351,6 +353,7 @@ describe("payment-module.ts", () => {
       expect(logCallMetadata.gas.has).toEqual(parseUnits("0.004", 18).toString());
       expect(logCallMetadata.gas.required).toEqual(parseUnits("0.02", 18).toString());
       expect(logCallMetadata.rewardToken.has).toEqual(parseUnits("200", 18).toString());
+      expect(logCallMetadata.rewardToken.allowed).toEqual(parseUnits("200", 18).toString());
       expect(logCallMetadata.rewardToken.required).toEqual(parseUnits("111.11", 18).toString());
 
       spyConsoleLog.mockReset();
@@ -388,6 +391,7 @@ describe("payment-module.ts", () => {
       expect(logCallMetadata.gas.has).toEqual(parseUnits("0.004", 18).toString());
       expect(logCallMetadata.gas.required).toEqual(parseUnits("0.02", 18).toString());
       expect(logCallMetadata.rewardToken.has).toEqual(parseUnits("50", 18).toString());
+      expect(logCallMetadata.rewardToken.allowed).toEqual(parseUnits("200", 18).toString());
       expect(logCallMetadata.rewardToken.required).toEqual(parseUnits("111.11", 18).toString());
 
       spyConsoleLog.mockReset();
@@ -418,6 +422,7 @@ describe("payment-module.ts", () => {
       expect(logCallMetadata.gas.has).toEqual(parseUnits("1", 18).toString());
       expect(logCallMetadata.gas.required).toEqual(parseUnits("0.02", 18).toString());
       expect(logCallMetadata.rewardToken.has).toEqual(parseUnits("50", 18).toString());
+      expect(logCallMetadata.rewardToken.allowed).toEqual(parseUnits("200", 18).toString());
       expect(logCallMetadata.rewardToken.required).toEqual(parseUnits("111.11", 18).toString());
 
       spyConsoleLog.mockReset();
